@@ -1,0 +1,18 @@
+.block1{
+  margin:5px;
+  padding: 15px;
+  
+}
+.block2{
+  margin:5px;
+
+}
+.block3{
+  float: right;
+}
+body{
+  background-color: aliceblue;
+}
+.card{
+  border:1px solid black;
+}
